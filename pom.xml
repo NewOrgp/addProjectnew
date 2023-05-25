@@ -5,6 +5,9 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <properties>
+	  <sonar.organization>neworgp</sonar.organization>
+          <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
 		<!-- Set the Java version used by the compiler. -->
 		<!-- Setting to Java 8 will work, in most cases, for installed -->
 		<!-- Java versions >= 8. -->
